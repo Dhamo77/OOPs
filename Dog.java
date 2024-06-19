@@ -35,5 +35,6 @@ public class Dog {
         d2.setbreed("puppy");
         System.out.println(d1);
         System.out.println(d2);
+        System.out.println("End the program ");
     }
 }
