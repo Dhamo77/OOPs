@@ -21,11 +21,11 @@ public class Rectangle {
     public void setWidth(float width){
         this.width=width;
     }
-    public float getArea(){
+    public float getArea(){//to find the area of rectangle
        return ( height*width)/2;
     }
 
-    public  float getPrimeter(){
+    public  float getPrimeter(){//to find the primeter of rectangle
         return 2*(height+width);
     }
 
