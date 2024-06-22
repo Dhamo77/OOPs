@@ -1,3 +1,4 @@
+/*Formatting Using Java Printf()/
 public class formated_print {
     public static void main(String[] args) {
         //%d---->for integer
